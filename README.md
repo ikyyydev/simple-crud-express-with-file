@@ -42,19 +42,13 @@
     yarn dev
    ```
 
-````
-
 2. Access the application in your browser at http://localhost:<port>/api/products.
 
-    ---
+   ### 📬 Contact
 
-    ### 📬 Contact
+   Berikan informasi agar orang lain dapat menghubungi Anda.
 
-    Berikan informasi agar orang lain dapat menghubungi Anda.
-
-    - **Name:** Rifki Jaya Afandi
-    - **Email:** afandijaya170@gmail.com
-    - **LinkedIn:** [https://linkedin.com/in/rifki-jaya-afandi](https://www.linkedin.com/in/rifki-jaya-afandi-78a534277/)
-    - **Website Portofolio:** [https://ikycoder.my.id/](https://ikycoder.my.id/)
-    ```
-````
+   - **Name:** Rifki Jaya Afandi
+   - **Email:** afandijaya170@gmail.com
+   - **LinkedIn:** [https://linkedin.com/in/rifki-jaya-afandi](https://www.linkedin.com/in/rifki-jaya-afandi-78a534277/)
+   - **Website Portofolio:** [https://ikycoder.my.id/](https://ikycoder.my.id/)
